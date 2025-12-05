@@ -9,6 +9,7 @@
     - [Slides](slides/chnug001-network-observability-gnp-stack.pdf)
     - [Recording](https://youtu.be/ILDSag7reKw)
 - 19:00 - 19:35: Building Digital Twins with Containerlab (Speaker: Mischa Diehm @narrowin)
+    - [Slides](slides/chnug001-digital-twin-containerlab.pdf)
     - [Recording](https://youtu.be/juwkIgE7B5o)
 - 19:40 - 20:00: Residential Access @Init7 - First Hop Security at the Customer Network Edge (Speaker: Thomas Fritz @Init7)
     - [Slides](slides/chnug001-residential-access-init7.pdf)
