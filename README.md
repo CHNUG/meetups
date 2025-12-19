@@ -7,6 +7,7 @@ The meetups are open to everyone. Please join us, whether you're at the start of
 ## Meetups
 
 - [CHNUG #1 - Thu, 4th of December 2025 @ OST](./chnug001)
+- [CHNUG #2 - Thu, 12th of March 2026 @ Init7](./chnug002)  <-- Next Meetup
 
 
 ## Social Meddia
