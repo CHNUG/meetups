@@ -7,5 +7,5 @@
 **Please use the official form to register**: https://forms.office.com/e/sqqk3nJ9Tp
 
 
-## Agenda
+## Agenda 17:30 – 22:00
 Comming soon... CFP is open!
