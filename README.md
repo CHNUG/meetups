@@ -9,6 +9,10 @@ The meetups are open to everyone. Please join us, whether you're at the start of
 - [CHNUG #1 - Thu, 4th of December 2025 @ OST](./chnug001)
 - [CHNUG #2 - Thu, 12th of March 2026 @ Init7](./chnug002)  <-- Next Meetup
 
+### Calendar
+Sync your calendar by importing [this calendar link](https://calendar.google.com/calendar/embed?src=2005c3b0dcdf1c7e941b4d830ad227c2475889cf8bbcaa21807e5b6b215a5940%40group.calendar.google.com&ctz=Europe%2FZurich) into your calendar application
+or download the [iCal Calendar](https://calendar.google.com/calendar/ical/2005c3b0dcdf1c7e941b4d830ad227c2475889cf8bbcaa21807e5b6b215a5940%40group.calendar.google.com/public/basic.ics).
+<iframe src="https://calendar.google.com/calendar/embed?src=2005c3b0dcdf1c7e941b4d830ad227c2475889cf8bbcaa21807e5b6b215a5940%40group.calendar.google.com&ctz=Europe%2FZurich" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Social Meddia
 
