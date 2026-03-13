@@ -21,6 +21,7 @@
     - [Recording](https://www.youtube.com/watch?v=rCe-FaalATE)
 - 19:00 – 19:30: Connecting Clouds over FTTH: How Easy Can CES Be? (Speaker: Darragh Grealish @56K.Cloud)
     - [Recording](https://www.youtube.com/watch?v=9g8QD-Mjd4o)
+    - [Slides](slides/chnug002-init7-acp-connecting-clouds-over-ftth-how-easy-can-itbe.pdf)   
 - 19:30 – 20:00: Optical Foundations for IP Engineers: From Fiber Basics to CWDM/DWDM and Link Budgeting (Speaker: Thomas Weible @FLEXOPTIX)
     - [Slides](slides/chnug002-flexoptix-optical-foundations-for-ip-engineers.pdf)
     - [Recording](https://www.youtube.com/watch?v=20qlPdcyW4Q)
