@@ -26,4 +26,6 @@
     - [Slides](slides/chnug002-flexoptix-optical-foundations-for-ip-engineers.pdf)
     - [Recording](https://www.youtube.com/watch?v=20qlPdcyW4Q)
 - 20:00 - 20:10 Closing Remarks and Future Plans (Speaker: Severin Dellsperger @CHNUG/OST)
+    - [Slides](slides/chnug002-closing.pdf)
+    - [Recording](https://www.youtube.com/watch?v=xI0T4imzQF4)
 - 20:10 – 22:00: Networking, Exchange, and Pizza!
