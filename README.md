@@ -7,7 +7,8 @@ The meetups are open to everyone. Please join us, whether you're at the start of
 ## Meetups
 
 - [CHNUG #1 - Thu, 4th of December 2025 @ OST](./chnug001)
-- [CHNUG #2 - Thu, 12th of March 2026 @ Init7](./chnug002)  <-- Next Meetup
+- [CHNUG #2 - Thu, 12th of March 2026 @ Init7](./chnug002)
+- [CHNUG #3 - Thu, 28th of May 2026 @ Nokia](./chnug003)  <-- Next Meetup
 
 ### Calendar
 Sync your calendar by importing [this calendar link](https://calendar.google.com/calendar/embed?src=2005c3b0dcdf1c7e941b4d830ad227c2475889cf8bbcaa21807e5b6b215a5940%40group.calendar.google.com&ctz=Europe%2FZurich) into your calendar application
@@ -18,3 +19,4 @@ or download the [iCal Calendar](https://calendar.google.com/calendar/ical/2005c3
 
 - [LinkedIn Group](https://www.linkedin.com/groups/15311010/)
 - [Youtube Channel](https://www.youtube.com/@CH-NUG)
+- [GitHub Repository](https://github.com/CHNUG/meetups/)
