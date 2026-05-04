@@ -7,7 +7,7 @@
 **Please use the official platform to register**: [https://events.chnug.ch/event/10/chnug-3](https://events.chnug.ch/event/10/chnug-3) (only 50 seats available, so register early!)
 
 
-## Agenda 17:30 – 22:00
+## Agenda 17:00 – 22:00
 
 - 17:00 – 18:00: Arrival and Registration
 - 18:00 – 18:10: Welcome and Intro | Speaker: Severin Dellsperger @CHNUG/OST
