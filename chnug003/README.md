@@ -19,3 +19,6 @@
 - 19:50 - 19:55: Technical Break
 - 19:55 - 20:00: Outro | Speaker: Severin Dellsperger @CHNUG/OST
 - 20:00 – 22:00: Beer, Bratwurst & Networking!
+
+<script async src="https://events.chnug.ch/widget.js"></script>
+<div data-hievents-id="10" data-hievents-primary-color="#DA291C" data-hievents-primary-text-color="#000000" data-hievents-secondary-color="#8b5cf6" data-hievents-secondary-text-color="#ffffff" data-hievents-background-color="#ffffff" data-hievents-widget-type="widget" data-hievents-widget-version="1.0" data-hievents-locale="en" data-hievents-padding="20px" data-hievents-autoresize="true" data-hievents-continue-button-text="Continue" class="hievents-widget"></div>
