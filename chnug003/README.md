@@ -2,9 +2,9 @@
 
 **Location**: Nokia, Friesenbergstrasse 75, Stadtkreis 3 Wiedikon, Zürich, CH, 8055
 
-**LinkedIn Event**: [https://www.linkedin.com/events/7448310597173231617](https://www.linkedin.com/events/7448310597173231617)
-
 **Please use the official platform to register**: [https://events.chnug.ch/event/10/chnug-3](https://events.chnug.ch/event/10/chnug-3) (only 50 seats available, so register early!)
+
+**LinkedIn Event**: [https://www.linkedin.com/events/7448310597173231617](https://www.linkedin.com/events/7448310597173231617)
 
 
 ## Agenda 17:00 – 22:00
