@@ -2,7 +2,7 @@
 
 **Location**: Nokia, Friesenbergstrasse 75, Stadtkreis 3 Wiedikon, Zürich, CH, 8055
 
-**Please use the official platform to register**: [https://events.chnug.ch/event/10/chnug-3](https://events.chnug.ch/event/10/chnug-3) (only 50 seats available, so register early!)
+**Please use the official platform to register**: [https://events.chnug.ch/event/3/chnug-3](https://events.chnug.ch/event/3/chnug-3) (only 50 seats available, so register early!)
 
 **LinkedIn Event**: [https://www.linkedin.com/events/7448310597173231617](https://www.linkedin.com/events/7448310597173231617)
 
@@ -21,7 +21,7 @@
 - 20:00 – 22:00: Beer, Bratwurst & Networking!
 
 
-## [Register for CHNUG #3](https://events.chnug.ch/event/10/chnug-3)
+## [Register for CHNUG #3](https://events.chnug.ch/event/3/chnug-3)
 
 <script async src="https://events.chnug.ch/widget.js"></script>
-<div data-hievents-id="10" data-hievents-primary-color="#DA291C" data-hievents-primary-text-color="#000000" data-hievents-secondary-color="#8b5cf6" data-hievents-secondary-text-color="#ffffff" data-hievents-background-color="#ffffff" data-hievents-widget-type="widget" data-hievents-widget-version="1.0" data-hievents-locale="en" data-hievents-padding="20px" data-hievents-autoresize="true" data-hievents-continue-button-text="Continue" class="hievents-widget"></div>
+<div data-hievents-id="3" data-hievents-primary-color="#DA291C" data-hievents-primary-text-color="#000000" data-hievents-secondary-color="#DA291C" data-hievents-secondary-text-color="#ffffff" data-hievents-background-color="#ffffff" data-hievents-widget-type="widget" data-hievents-widget-version="1.0" data-hievents-locale="en" data-hievents-padding="20px" data-hievents-autoresize="true" data-hievents-continue-button-text="Continue" class="hievents-widget"></div>
