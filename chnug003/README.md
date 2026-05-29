@@ -4,8 +4,6 @@
 
 **LinkedIn Event**: [https://www.linkedin.com/events/7448310597173231617](https://www.linkedin.com/events/7448310597173231617)
 
-**Please use the official platform to register**: [https://events.chnug.ch/event/3/chnug-3](https://events.chnug.ch/event/3/chnug-3)
-
 
 ## Agenda 17:00 – 22:00
 
