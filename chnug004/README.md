@@ -7,26 +7,15 @@
 [https://www.linkedin.com/events/7466138159316107265?viewAsMember=true](https://www.linkedin.com/events/7466138159316107265?viewAsMember=true)
 
 
-## Agenda 
-Coming soon!
+## Agenda 17:00 – 22:00
 
-<!-- - 17:00 – 18:00: Arrival and Registration
-- 18:00 – 18:10: Welcome and Introduction (Speaker: Severin Dellsperger @CHNUG/OST)
-    - [Slides](slides/chnug003-welcome-intro.pdf)
-    - [Recording](https://www.youtube.com/watch?v=H9AWSMQieHU)
-- 18:10 – 18:40: Change with Confidence: Containerlab at Proton (Speaker: John Howard @Proton)
-    - [Slides](slides/chnug003-change-with-confidence-containerlab-at-proton.pdf)
-    - [Recording](https://www.youtube.com/watch?v=RtJqWRYKf88)
-- 18:40 – 18:45: Technical Break
-- 18:45 – 19:15: Building Modern & Scalable DC Fabrics (Speaker: Alperen Akpinar @Nokia)
-    - [Slides](slides/chnug003-building-modern-scalable-dc-fabrics.pdf)
-    - [Recording](https://www.youtube.com/watch?v=OuGXD0PPRnw)
+- 17:00 – 18:00: Arrival and Registration
+- 18:00 – 18:10: Welcome and Intro (Speaker: Laurent Metzger @OST)
+- 18:10 – 18:40: Network Monitoring with the gNMIc Operator (Speakers: Roman Weber + Valentino Diller @OST Students)
+- 18:40 – 18:45: Cyber Security @OST (Speaker: Christoph Göldi @OST)
+- 18:45 – 19:15: VPP: eVPN Control Plane (Speaker: Pim van Pelt @IPng Networks)
 - 19:15 – 19:20: Technical Break
-- 19:20 – 19:50: Network Observability Innovations at the IETF (Speaker: Thomas Graf @Swisscom)
-    - [Slides](slides/chnug003-network-observability-innovations-at-the-ietf.pdf)
-    - [Recording](https://www.youtube.com/watch?v=IAJaIFwwkxA)
-- 19:50 – 19:55: Technical Break
-- 19:55 – 20:00: Closing Remarks and Future Plans (Speaker: Severin Dellsperger @CHNUG/OST)
-    - [Slides](slides/chnug003-closing.pdf)
-    - [Recording](https://www.youtube.com/watch?v=fikYkJcBkF4)
-- 20:00 – 22:00: Beer, Bratwurst & Networking! -->
+- 19:20 – 19:50: What's Next for Nornir: Project Update and Roadmap (Speaker: Damien Garros @OpsMill)
+- 19:50 – 19:55: Further Education @OST (Speaker: Daniel Politze @OST)
+- 19:55 – 20:05: Outro (Speaker: Severin Dellsperger @CHNUG/OST)
+- 20:05 – 22:00: Beer, Burger & Networking!
