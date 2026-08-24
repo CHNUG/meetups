@@ -3,6 +3,8 @@
 **Location**: OST - Eastern Switzerland of Applied Sciences, Oberseestrasse 10, 8640 Rapperswil-Jona
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2709.624906381172!2d8.8172596!3d47.22392119999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479ab6e12facc7ad%3A0x711fa65bf58f9c0f!2sOST%20%E2%80%93%20Ostschweizer%20Fachhochschule%20%7C%20Campus%20Rapperswil!5e0!3m2!1sen!2sch!4v1780060828628!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+**Arrival**: Please arrive by public transport if possible - Rapperswil train station is right next to OST. If you need to come by car, you can park in the university's parking lot: https://www.ost.ch/en/university-of-applied-sciences/campus/rapperswil-jona-campus
+
 **LinkedIn Event**:
 [https://www.linkedin.com/events/7466138159316107265?viewAsMember=true](https://www.linkedin.com/events/7466138159316107265?viewAsMember=true)
 
