@@ -14,7 +14,7 @@
 - 17:00 – 18:00: Arrival and Registration
 - 18:00 – 18:10: Welcome and Intro (Speaker: Laurent Metzger @OST)
 - 18:10 – 18:40: Network Monitoring with the gNMIc Operator (Speakers: Roman Weber + Valentino Diller @OST Students)
-- 18:40 – 18:45: Cyber Security @OST (Speaker: Christoph Göldi @OST)
+- 18:40 – 18:45: Technical Break
 - 18:45 – 19:15: VPP: eVPN Control Plane (Speaker: Pim van Pelt @IPng Networks)
 - 19:15 – 19:20: Technical Break
 - 19:20 – 19:50: What's Next for Nornir: Project Update and Roadmap (Speaker: Damien Garros @OpsMill)
