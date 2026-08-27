@@ -15,15 +15,19 @@
 - 18:00 – 18:10: Welcome and Intro (Speaker: Laurent Metzger @OST)
 - 18:10 – 18:40: Network Monitoring with the gNMIc Operator (Speakers: Roman Weber + Valentino Diller @OST Students)
   - [Slides](slides/chnug004-BA-gNMIc_operator-chnug.pdf)
+  - [Recording](https://youtu.be/Tq85WB6UK7c)
 - 18:40 – 18:45: Technical Break
 - 18:45 – 19:15: DDI: Managing IP Allocation with an Open-Source DDI (Speaker: Marco Martinez)
   - [Slides](slides/chnug004-Managing_IP_Allocation_with_an_Open-Source_DDI.pdf)
+  - [Recording](https://youtu.be/i8VJbY-0uO4)
 - 19:15 – 19:20: Technical Break
 - 19:20 – 19:50: What's Next for Nornir: Project Update and Roadmap (Speaker: Damien Garros @OpsMill)
   - [Slides](slides/chnug004-CHNUG_Nornir_Update_&_Roadmap.pdf)
+  - [Recording](https://youtu.be/U_eGZHYqObg)
 - 19:50 – 19:55: Further Education @OST (Speaker: Christoph Göldi @OST)
 - 19:55 – 20:05: Outro (Speaker: Severin Dellsperger @CHNUG/OST)
   - [Slides](slides/chnug004-closing.pdf)
+  - [Recording](https://youtu.be/4XmVCUmsyE8)
 - 20:05 – 22:00: Beer, Burger & Networking!
 
 ## Registration
