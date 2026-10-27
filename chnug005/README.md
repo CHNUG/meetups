@@ -10,11 +10,11 @@ Cisco is also generously sponsoring food and drinks, so stick around after the t
 ## Location
 Cisco Systems (Switzerland) GmbH, Richtistrasse 7, 8304 Wallisellen ([Google Maps](https://maps.app.goo.gl/jSAnYoKF76Q76JVv6))
 
-## Lineup
+## Agenda
 
 <div class="hievents-widget"
   data-hievents-id="1"
-  data-hievents-widget-type="lineup"
+  data-hievents-widget-type="schedule"
   data-hievents-theme="event"
 ></div>
 
