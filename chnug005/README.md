@@ -10,6 +10,10 @@ Cisco is also generously sponsoring food and drinks, so stick around after the t
 ## Location
 Cisco Systems (Switzerland) GmbH, Richtistrasse 7, 8304 Wallisellen ([Google Maps](https://maps.app.goo.gl/jSAnYoKF76Q76JVv6))
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d337.5139150301696!2d8.5901565!3d47.4097698!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479aa050877d4319%3A0x8aeb6796d915bd7!2sCisco%20Systems%20(Switzerland)%20GmbH!5e0!3m2!1sen!2sch!4v1794486679444!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+**Arrival**: Please arrive by public transport if possible. The Cisco office is within walking distance of Wallisellen train station.
+
 ## Agenda
 
 <div class="hievents-widget"
