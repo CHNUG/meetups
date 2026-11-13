@@ -14,22 +14,19 @@ Cisco Systems (Switzerland) GmbH, Richtistrasse 7, 8304 Wallisellen ([Google Map
 
 **Arrival**: Please arrive by public transport if possible. The Cisco office is within walking distance of Wallisellen train station.
 
-## Agenda
+## Agenda 17:00 – 22:00
 
-<div class="hievents-widget"
-  data-hievents-id="1"
-  data-hievents-widget-type="schedule"
-  data-hievents-theme="event"
-></div>
-
-## Tickets
-
-<div class="hievents-widget"
-  data-hievents-id="1"
-  data-hievents-theme="event"
-></div>
-
-## CfP
-The CfP for CHNUG #5 is closed. Thank you for all the submissions! If you'd like to present at a future meetup, you can submit your proposal at [https://cfp.chnug.ch/cfp](https://cfp.chnug.ch/cfp).
-
-<script async src="https://events.chnug.ch/widget.js"></script>
+- 17:00 – 18:00: Arrival and Registration
+- 18:00 – 18:10: Welcome and Intro (Speaker: Severin Dellsperger @CHNUG/OST)
+  - [Slides](slides/chnug005-01-welcome-and-intro.pdf)
+- 18:10 – 18:40: Let AI Break the Lab: Network as Code in the Real World (Speaker: Patrick Mosimann @Cisco)
+  - [Slides](slides/chnug005-02-let-ai-break-the-lab-network-as-code-in-the-real-world.pdf)
+- 18:40 – 18:45: Technical Break
+- 18:45 – 19:15: VPP: eVPN Control Plane (Speaker: Pim van Pelt @IPng Networks)
+  - [Slides](slides/chnug005-03-vpp-evpn-control-plane.pdf)
+- 19:15 – 19:20: Technical Break
+- 19:20 – 19:50: From Configuration Tasks to Declarative Intent with Ansible (Speaker: Tomas Horyl @Narrowin)
+  - [Slides](slides/chnug005-04-from-configuration-tasks-to-declarative-intent-with-ansible.pdf)
+- 19:50 – 20:00: Outro (Speaker: Severin Dellsperger @CHNUG/OST)
+  - [Slides](slides/chnug005-05-outro.pdf)
+- 20:00 – 22:00: Dinner & Networking!
