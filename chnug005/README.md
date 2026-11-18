@@ -19,14 +19,19 @@ Cisco Systems (Switzerland) GmbH, Richtistrasse 7, 8304 Wallisellen ([Google Map
 - 17:00 – 18:00: Arrival and Registration
 - 18:00 – 18:10: Welcome and Intro (Speaker: Severin Dellsperger @CHNUG/OST)
   - [Slides](slides/chnug005-01-welcome-and-intro.pdf)
+  - [Recording](https://youtu.be/kM1eyX45gZQ)
 - 18:10 – 18:40: Let AI Break the Lab: Network as Code in the Real World (Speaker: Patrick Mosimann @Cisco)
   - [Slides](slides/chnug005-02-let-ai-break-the-lab-network-as-code-in-the-real-world.pdf)
+  - [Recording](https://youtu.be/J9vZReJpqxU)
 - 18:40 – 18:45: Technical Break
 - 18:45 – 19:15: VPP: eVPN Control Plane (Speaker: Pim van Pelt @IPng Networks)
   - [Slides](slides/chnug005-03-vpp-evpn-control-plane.pdf)
+  - [Recording](https://youtu.be/ay8ms5fUPbg)
 - 19:15 – 19:20: Technical Break
 - 19:20 – 19:50: From Configuration Tasks to Declarative Intent with Ansible (Speaker: Tomas Horyl @Narrowin)
   - [Slides](slides/chnug005-04-from-configuration-tasks-to-declarative-intent-with-ansible.pdf)
+  - [Recording](https://youtu.be/isj4vHPUswM)
 - 19:50 – 20:00: Outro (Speaker: Severin Dellsperger @CHNUG/OST)
   - [Slides](slides/chnug005-05-outro.pdf)
+  - [Recording](https://youtu.be/mCQ-5coB_CE)
 - 20:00 – 22:00: Dinner & Networking!
